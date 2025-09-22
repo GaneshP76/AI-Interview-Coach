@@ -1,6 +1,6 @@
 # 🎤 AI Interview Coach  
 
-An interactive practice app for **AI/ML technical interviews**. Generates interview questions via a local LLM, collects spoken or typed answers, and (future) provides automated feedback.  Still in Dev
+An interactive practice app for **AI/ML technical interviews**. Generates interview questions via a local LLM, collects spoken or typed answers, and provides automated feedback.  Still in Dev
 
 ---
 
